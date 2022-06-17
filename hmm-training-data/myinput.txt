@@ -1,0 +1,3 @@
+the/DT cat/NN is/VB in/PP the/DT box/NN
+the/DT cat/NN sat/VB on/PP the/DT mat/NN
+the/DT black/JJ cat/NN sat/VB
